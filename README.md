@@ -1,12 +1,10 @@
 ## Hi there 👋
 resume:https://visiky.github.io/resume/?lang=zh-CN&mode=edit&template=template2&user=fjc7
+
 '''bash
 git pull
-
 git add
-
 git commit -m "update"
-
 git push
 '''
 <!--
