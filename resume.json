@@ -4,7 +4,7 @@
     "workExpList": "工作经历",
     "projectList": "项目经历",
     "skillList": "个人技能",
-    "awardList": "更多信息",
+    "awardList": "荣誉证书",
     "workList": "个人作品",
     "aboutme": "自我介绍"
   },
@@ -65,7 +65,7 @@
   "skillList": [
     {
       "skill_name": "Python 和 C++",
-      "skill_desc": "熟悉 C++ 和 Python，有丰富的深度学习项目开发、部署经验",
+      "skill_desc": "熟悉 Python 和 C++，有丰富的深度学习项目开发、部署经验",
       "skill_level": 90
     },
     {
