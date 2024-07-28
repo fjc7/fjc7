@@ -1,5 +1,13 @@
 ## Hi there 👋
 resume:https://visiky.github.io/resume/?lang=zh-CN&mode=edit&template=template2&user=fjc7
+
+git pull
+
+git add
+
+git commit -m "update"
+
+git push
 <!--
 **fjc7/fjc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
