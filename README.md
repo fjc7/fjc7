@@ -4,9 +4,7 @@ resume:https://visiky.github.io/resume/?lang=zh-CN&mode=edit&template=template2&
 
 git pull
 
-git add
-
-git commit -m "update"
+git commit -a
 
 git push
 
