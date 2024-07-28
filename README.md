@@ -1,5 +1,5 @@
 ## Hi there 👋
-resume:https://visiky.github.io/resume/?lang=zh-CN&mode=edit&template=template2&user=fjc7
+resume:https://visiky.github.io/resume?user=fjc7
 
 
 git pull
