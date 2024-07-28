@@ -20,7 +20,7 @@
     "zhihu": "",
     "workExpYear": "",
     "workPlace": "",
-    "positionTitle": "XXXX"
+    "positionTitle": "AI方向"
   },
   "educationList": [
     {
@@ -39,7 +39,8 @@
         "至今"
       ],
       "school": "上海海事大学",
-      "major": "控制科学与工程"
+      "major": "控制科学与工程",
+      "academic_degree": "硕士"
     }
   ],
   "awardList": [
@@ -52,21 +53,17 @@
   "skillList": [
     {
       "skill_name": "C++ 和 Python",
-      "skill_desc": "",
-      "skill_level": 89
-    },
-    {
-      "skill_name": "TypeScript / JavaScript",
+      "skill_desc": "熟悉 C++ 和 Python，有丰富的深度学习项目开发、部署经验",
       "skill_level": 90
     },
     {
-      "skill_name": "数据可视化",
-      "skill_desc": "丰富的可视化工程实践以及开源经验",
+      "skill_name": "ROS/Ubuntu",
+      "skill_desc": "熟悉 ROS 和 Ubuntu，有丰富的机器人路径规划控制经验",
       "skill_level": 90
     },
     {
-      "skill_name": "React / 前端工程化",
-      "skill_desc": "大型前端项目经验以及组件库开发经验",
+      "skill_name": "PX4 / arduPilot",
+      "skill_desc": "熟悉 PX4 和 ardupilot，有无人机系统仿真经验",
       "skill_level": 80
     }
   ],
