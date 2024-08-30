@@ -45,10 +45,6 @@
   ],
   "awardList": [
     {
-      "award_info": "英语 CET4，计算机二级C语言程序设计",
-      "award_time": "2019"
-    },
-    {
       "award_info": "全国大学生电子设计竞赛全国一等奖",
       "award_time": "2019"
     },
@@ -58,6 +54,10 @@
     },
     {
       "award_info": "全国大学智能汽车竞赛二等奖",
+      "award_time": "2020"
+    },
+    {
+      "award_info": "多次获校级奖学金，英语 CET4，CET6-410分，计算机二级C语言程序设计，有C1驾照",
       "award_time": "2020"
     }
   ],
