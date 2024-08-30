@@ -6,7 +6,7 @@
     "skillList": "个人技能",
     "awardList": "荣誉证书",
     "workList": "个人作品",
-    "aboutme": "主修课程"
+    "aboutme": "自我介绍"
   },
   "avatar": {
     "src": "https://raw.githubusercontent.com/fjc7/fjc7/main/src/img/me.jpg",
@@ -19,7 +19,7 @@
     "github": "",
     "zhihu": "",
     "workExpYear": "",
-    "workPlace": "",
+    "workPlace": "上海",
     "positionTitle": "自动驾驶规控工程师"
   },
   "educationList": [
@@ -104,7 +104,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "自动控制原理，电力电子技术，微控制器原理与技术，智能优化算法，"
+    "aboutme_desc": ""
   },
   "theme": {
     "color": "#2f5785",
