@@ -6,7 +6,7 @@
     "skillList": "个人技能",
     "awardList": "荣誉证书",
     "workList": "个人作品",
-    "aboutme": "自我介绍"
+    "aboutme": "主修课程"
   },
   "avatar": {
     "src": "https://raw.githubusercontent.com/fjc7/fjc7/main/src/img/me.jpg",
@@ -104,7 +104,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": " "
+    "aboutme_desc": "自动控制原理，电力电子技术，微控制器原理与技术，智能优化算法，"
   },
   "theme": {
     "color": "#2f5785",
