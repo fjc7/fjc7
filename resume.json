@@ -84,8 +84,8 @@
       "project_name": "基于apollo算法的动态避障仿真",
       "project_role": "",
       "project_time": "matlab，simulink，prescan，carsim",
-      "project_desc": "课余时间出于兴趣在prescan中搭建了自动驾驶仿真环境，利用carsim软件提供的精确车辆动力学模型,在matlab的simulink中仿照早期Apollo算法进行了自动驾驶规控算法的联合仿真",
-      "project_content": "\n1. 掌握了Apollo规控算法的整体框架 \n2. 提高了自己发现和解决问题的能力 \n3. 通过理论推导，加深了自身对理论应用于实际的理解"
+      "project_desc": "课余时间出于兴趣,自己动手从某鱼平台选购散件组装台式机,在其上安装windows+Ubuntu双系统，配置仿真软件。在prescan中搭建了自动驾驶仿真环境，利用carsim软件提供的精确车辆动力学模型,在matlab的simulink中仿照早期Apollo算法进行了自动驾驶规控算法的联合仿真",
+      "project_content": "\n1. 掌握了Apollo规控算法的整体框架 \n2. 通过理论推导，加深了自身对理论应用于实际的理解 \n3. 此外，在Ubuntu中进行了Apollo+Calar的联合仿真，提升了自身对从事自驾行业的兴趣"
     },
     {
       "project_name": "矿区开放道路场景下的车辆规控算法研发",
@@ -98,8 +98,8 @@
       "project_name": "基于视频和激光雷达数据的港口AGV路径规划与控制研究",
       "project_role": "",
       "project_time": "ROS, C++, Python",
-      "project_desc": "毕设选题，利用RTAB-MAP算法融合来自RGBD相机和激光雷达的传感器数据对车辆自身进行定位，同时输出周围环境的2d投影地图，基于改进后的规控算法提高港口环境下的AGV自动作业效率",
-      "project_content": "\n1. 通过真机测试锻炼了自己解决实际工程问题的能力\n2. 通过广泛的文献阅读拓宽了自己的科研思路\n3. 通过广泛的文献阅读拓宽了自己的科研思路"
+      "project_desc": "毕设选题，基于RTAB-MAP算法融合来自RGBD相机和激光雷达的传感器数据对车辆自身进行定位，同时输出周围环境的2d投影地图，基于改进后的规控算法提高港口环境下的AGV自动作业效率",
+      "project_content": "\n1. 通过对源码阅读和二次开发提升了自己的编程水平\n2. 通过真机测试锻炼了自己解决实际工程问题的能力\n3. 通过广泛的文献阅读拓宽了自己的科研思路"
     }
   ],
   "workList": [],
