@@ -20,7 +20,7 @@
     "zhihu": "",
     "workExpYear": "",
     "workPlace": "",
-    "positionTitle": "AI方向"
+    "positionTitle": "自动驾驶规控工程师"
   },
   "educationList": [
     {
@@ -69,13 +69,13 @@
       "skill_level": 90
     },
     {
-      "skill_name": "ROS/Ubuntu",
-      "skill_desc": "熟悉 ROS 和 Ubuntu，有丰富的机器人路径规划控制经验",
+      "skill_name": "ROS/Linux",
+      "skill_desc": "熟悉 ROS 和 Linux，有丰富的机器人路径规划控制经验",
       "skill_level": 90
     },
     {
-      "skill_name": "PX4 / arduPilot",
-      "skill_desc": "熟悉 PX4 和 ardupilot，有无人机系统建图仿真经验",
+      "skill_name": "Apollo",
+      "skill_desc": "熟悉Apollo自动驾驶框架，可根据实际需要灵活裁剪修改相关算法",
       "skill_level": 80
     }
   ],
@@ -84,14 +84,14 @@
       "project_name": "基于apollo算法的动态避障仿真",
       "project_role": "",
       "project_time": "matlab，simulink，prescan，carsim",
-      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+      "project_desc": "业余时间出于兴趣在prescan中搭建了自动驾驶仿真环境，利用carsim软件提供的精确车辆动力学模型,在matlab的simulink中仿照早期Apollo算法进行了自动驾驶规控算法的联合仿真",
+      "project_content": "1. 掌握了Apollo规控算法的整体框架 2. 提高了自己发现和解决问题的能力 3. 通过理论推导，加深了自身对理论应用于实际的理解"
     },
     {
       "project_name": "矿区开放道路场景下的车辆规控算法研发",
       "project_role": "",
       "project_time": "Python",
-      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
+      "project_desc": "利用第二届OnSite自动驾驶算法挑战赛提供的矿区路网及可通行道路的栅格地图信息，研发了在矿区交叉路口场景以及驶出装载区场景下的自动驾驶规控算法，并通过官网提供的评测工具验证了算法的性能。",
       "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
     },
     {
