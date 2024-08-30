@@ -84,22 +84,22 @@
       "project_name": "基于apollo算法的动态避障仿真",
       "project_role": "",
       "project_time": "matlab，simulink，prescan，carsim",
-      "project_desc": "业余时间出于兴趣在prescan中搭建了自动驾驶仿真环境，利用carsim软件提供的精确车辆动力学模型,在matlab的simulink中仿照早期Apollo算法进行了自动驾驶规控算法的联合仿真",
-      "project_content": "1. 掌握了Apollo规控算法的整体框架 2. 提高了自己发现和解决问题的能力 3. 通过理论推导，加深了自身对理论应用于实际的理解"
+      "project_desc": "课余时间出于兴趣在prescan中搭建了自动驾驶仿真环境，利用carsim软件提供的精确车辆动力学模型,在matlab的simulink中仿照早期Apollo算法进行了自动驾驶规控算法的联合仿真",
+      "project_content": "\n1. 掌握了Apollo规控算法的整体框架 \n2. 提高了自己发现和解决问题的能力 \n3. 通过理论推导，加深了自身对理论应用于实际的理解"
     },
     {
       "project_name": "矿区开放道路场景下的车辆规控算法研发",
       "project_role": "",
       "project_time": "Python",
       "project_desc": "利用第二届OnSite自动驾驶算法挑战赛提供的矿区路网及可通行道路的栅格地图信息，研发了在矿区交叉路口场景以及驶出装载区场景下的自动驾驶规控算法，并通过官网提供的评测工具验证了算法的性能。",
-      "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
+      "project_content": "\n1. 基于竞赛官网提供原始demo，适当裁剪了Apollo算法，在性能和效率之间取得了平衡\n2. 通过二次开发可视化功能包，认识到良好的数据可视化和团队配合可以极大的加快代码迭代速度\n3. 通过与国内顶尖院校队伍的PK，坚定了投身自驾行业的决心"
     },
     {
       "project_name": "基于视频和雷达数据的港口AGV路径规划与控制研究",
       "project_role": "",
-      "project_time": "ROS",
-      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+      "project_time": "ROS, C++, Python",
+      "project_desc": "毕设选题，利用RTAB-MAP算法融合来自RGBD相机和激光雷达的传感器数据对车辆自身进行定位，同时输出周围环境的2d投影地图，基于改进后的规控算法提高港口环境下的AGV自动作业效率",
+      "project_content": "\n1. 通过真机测试锻炼了自己解决实际工程问题的能力"
     }
   ],
   "workList": [],
