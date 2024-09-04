@@ -1,7 +1,7 @@
 {
   "titleNameMap": {
     "educationList": "教育背景",
-    "workExpList": "工作经历",
+    "workExpList": "荣誉证书",
     "projectList": "项目经历",
     "skillList": "个人技能",
     "awardList": "荣誉证书",
@@ -61,7 +61,24 @@
       "award_time": ""
     }
   ],
-  "workExpList": [],
+  "workExpList": [
+    {
+    "award_info": "全国大学生电子设计竞赛全国一等奖",
+    "award_time": "2019"
+    },
+    {
+      "award_info": "蓝桥杯物联网设计与开发全国三等奖",
+      "award_time": "2020"
+    },
+    {
+      "award_info": "全国大学生智能汽车竞赛二等奖",
+      "award_time": "2020"
+    },
+    {
+      "award_info": "英语 CET4，CET6-410分，计算机二级C语言程序设计，有C1驾照，多次获校级奖学金,多类学科竞赛证书",
+      "award_time": ""
+    }
+],
   "skillList": [
     {
       "skill_name": "AutoCAD/Altium Designer",
