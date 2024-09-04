@@ -19,7 +19,7 @@
     "github": "",
     "zhihu": "",
     "workExpYear": "",
-    "workPlace": "上海",
+    "workPlace": "上海及周边",
     "positionTitle": ""
   },
   "educationList": [
@@ -49,6 +49,14 @@
       "award_time": "2019"
     },
     {
+      "award_info": "蓝桥杯物联网设计与开发全国三等奖",
+      "award_time": "2020"
+    },
+    {
+      "award_info": "全国大学生智能汽车竞赛二等奖",
+      "award_time": "2020"
+    },
+    {
       "award_info": "英语 CET4，CET6-410分，计算机二级C语言程序设计，有C1驾照，多次获校级奖学金,多类学科竞赛证书",
       "award_time": ""
     }
@@ -56,47 +64,35 @@
   "workExpList": [],
   "skillList": [
     {
+      "skill_name": "AutoCAD/Altium Designer",
+      "skill_desc": "熟练使用 AutoCAD/Altium Designer，有丰富的电路板设计和 PCB 布局经验",
+      "skill_level": 90      
+    },
+    {
       "skill_name": "Python 和 C++",
       "skill_desc": "熟悉 Python 和 C++，有丰富的深度学习项目开发、部署经验",
       "skill_level": 90
-    },
-    {
-      "skill_name": "ROS/Linux",
-      "skill_desc": "熟悉 ROS 和 Linux，有丰富的机器人路径规划控制经验",
-      "skill_level": 90
-    },
-    {
-      "skill_name": "Apollo",
-      "skill_desc": "熟悉Apollo自动驾驶框架，可根据实际需要灵活裁剪修改相关算法",
-      "skill_level": 80
     }
   ],
   "projectList": [
     {
-      "project_name": "基于apollo算法的动态避障仿真",
+      "project_name": "循迹小车的软硬件设计",
       "project_role": "",
-      "project_time": "matlab，simulink，prescan，carsim",
-      "project_desc": "课余时间出于兴趣,自己动手从某鱼平台选购散件组装台式机,在其上安装windows+Ubuntu双系统，配置仿真软件。在prescan中搭建了自动驾驶仿真环境，利用carsim软件提供的精确车辆动力学模型,在matlab的simulink中仿照早期Apollo算法进行了自动驾驶规控算法的联合仿真",
-      "project_content": "\n1. 掌握了Apollo规控算法的整体框架 \n2. 通过理论推导，加深了自身对理论应用于实际的理解 \n3. 此外，在Ubuntu中进行了Apollo+Calar的联合仿真，提升了自身对从事自驾行业的兴趣"
+      "project_time": "Altium Designer，keil，",
+      "project_desc": "参照网上相关技术博客，利用Altium Designer进行电路板设计，自行绘制单片机最小系统，导出layout文件后，打板测试；利用keil软件参照芯片开发手册配置单片机外设功能，编写循迹逻辑代码，结合实际效果调节各传感器布局及软件代码，实现循迹功能",
+      "project_content": "\n1. 通过器件库的绘制，掌握了Altium Designer的电路板设计方法 \n2.通过打板实物测试，掌握了单片机的基本开发流程 \n3.通过小车循迹测试，激发了自己对电子电路的兴趣 "
     },
     {
-      "project_name": "矿区开放道路场景下的车辆规控算法研发",
+      "project_name": "口腔负压检测仪的硬件设计",
       "project_role": "",
-      "project_time": "Python",
-      "project_desc": "利用第二届OnSite自动驾驶算法挑战赛提供的矿区路网及可通行道路的栅格地图信息，研发了在矿区交叉路口场景以及驶出装载区场景下的自动驾驶规控算法，并通过官网提供的评测工具验证了算法的性能。",
-      "project_content": "\n1. 基于竞赛官网提供原始demo，适当裁剪了Apollo算法，在性能和效率之间取得了平衡\n2. 通过二次开发可视化功能包，认识到良好的数据可视化和团队配合可以极大的加快代码迭代速度\n3. 通过与国内顶尖院校队伍的PK，坚定了投身自驾行业的决心"
-    },
-    {
-      "project_name": "基于视频和激光雷达数据的港口AGV路径规划与控制研究",
-      "project_role": "",
-      "project_time": "ROS, C++, Python",
-      "project_desc": "毕设选题，基于RTAB-MAP算法融合来自RGBD相机和激光雷达的传感器数据对车辆自身进行定位，同时输出周围环境的2d投影地图，基于改进后的规控算法提高港口环境下的AGV自动作业效率",
-      "project_content": "\n1. 通过对源码阅读和二次开发提升了自己的编程水平\n2. 通过真机测试锻炼了自己解决实际工程问题的能力\n3. 通过广泛的文献阅读拓宽了自己的科研思路"
+      "project_time": "Altium Designer",
+      "project_desc": "课余时间在老师给定需求下,自己分析公开的电路原理图，参考所需功能部分，利用Autium Designer进行电路板设计，导出layout文件后，打板测试，根据测试结果迭代优化电路",
+      "project_content": "\n1. 通过分析元器件芯片手册，锻炼了对硬件设备选型的能力 \n2.通过硬件测试，熟练掌握了常用仪器仪表的使用 \n3.通过版本迭代，锻炼了自己硬件设计的优化能力"
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": ""
+    "aboutme_desc": "本人对新生事物抱有好奇心，乐于尝试并挑战未知领域，有较强的自学能力和团队协作精神，能快速适应新环境，有较强的责任心和抗压能力。"
   },
   "theme": {
     "color": "#2f5785",
